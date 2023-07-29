@@ -1,5 +1,3 @@
-Here is an updated README for the Rust news article downloader application called newsy:
-
 # newsy
 
 This is a simple command line application written in Rust that downloads news articles from NewsAPI.org and saves them as text files.
